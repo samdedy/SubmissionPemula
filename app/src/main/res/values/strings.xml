@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AlatMusikTradisional</string>
+
+    <string-array name="data_name">
+        <item>Calung</item>
+        <item>Angklung</item>
+        <item>Kendang</item>
+        <item>Saron</item>
+        <item>Karinding</item>
+        <item>Kolintang</item>
+        <item>Rebab</item>
+        <item>Rebana</item>
+        <item>Saluang</item>
+        <item>Talempong</item>
+    </string-array>
+
+    <string-array name="data_daerah_asal">
+        <item>Berasal dari daerah : \nJawa Barat</item>
+        <item>Berasal dari daerah : \nJawa Barat</item>
+        <item>Berasal dari daerah : \nJawa Barat</item>
+        <item>Berasal dari daerah : \nPulau Jawa</item>
+        <item>Berasal dari daerah : \nJawa Barat</item>
+        <item>Berasal dari daerah : \nJawa Barat</item>
+        <item>Berasal dari daerah : \nSumatera Barat</item>
+        <item>Berasal dari daerah : \nTimur Tengah</item>
+        <item>Berasal dari daerah : \nMinangkabau Sumatera Barat</item>
+        <item>Berasal dari daerah : \nMinangkabau Sumatera Barat</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Calung adalah alat musik purwarupa jenis idiofon yang terbuat dari bambu. Alat musik ini dikenal dan berkembang di wilayah Banyumasan dan Sunda. Berbeda dengan angklung yang dimainkan dengan cara digoyangkan, cara menabuh calung adalah dengan memukul bilah atau ruas (tabung bambu) yang tersusun menurut titi laras (tangga nada) pentatonik (da-mi-na-ti-la untuk masyarakat Sunda, dan ji-ro-lu-ma-nem untuk masyarakat Banyumas). Jenis bambu untuk pembuatan calung kebanyakan dari awi wulung (bambu hitam), tetapi ada pula yang dibuat dari awi temen (bambu ater, berwarna hijau).</item>
+        <item>Angklung adalah alat musik multitonal (bernada ganda) yang secara tradisional berkembang dalam masyarakat Sunda di Pulau Jawa bagian barat. Alat musik ini dibuat dari bambu, dibunyikan dengan cara digoyangkan (bunyi disebabkan oleh benturan badan pipa bambu) sehingga menghasilkan bunyi yang bergetar dalam susunan nada 2, 3, sampai 4 nada dalam setiap ukuran, baik besar maupun kecil. Dictionary of the Sunda Language karya Jonathan Rigg, yang diterbitkan pada tahun 1862 di Batavia, menuliskan bahwa angklung adalah alat musik yang terbuat dari pipa-pipa bambu, yang dipotong ujung-ujungnya, menyerupai pipa-pipa dalam suatu organ, dan diikat bersama dalam suatu bingkai, digetarkan untuk menghasilkan bunyi.</item>
+        <item>Kendang atau kendhang adalah instrumen dalam gamelan Jawa Tengah dan Jawa Barat yang salah satu fungsi utamanya mengatur irama. Instrument ini dibunyikan dengan tangan, tanpa alat bantu. Jenis kendang yang kecil disebut ketipung, yang menengah disebut kendang ciblon/kebar. Pasangan ketipung ada satu lagi bernama kendang gedhe biasa disebut kendang kalih. Kendang kalih dimainkan pada lagu atau gendhing yang berkarakter halus seperti ketawang, gendhing kethuk kalih, dan ladrang irama dadi. Bisa juga dimainkan cepat pada pembukaan lagu jenis lancaran ,ladrang irama tanggung. Untuk wayangan ada satu lagi kendhang yang khas yaitu kendhang kosek.</item>
+        <item>Saron atau yang biasanya disebut juga ricik ,adalah salah satu instrumen gamelan yang termasuk keluarga balungan.
+Dalam satu set gamelan gaya Surakarta biasanya mempunyai 2 pasang saron, laras pelog dan slendro. Saron menghasilkan nada satu oktaf lebih tinggi daripada demung atau saron panembung, dengan ukuran fisik yang lebih kecil. Tabuh saron biasanya terbuat dari kayu, dengan bentuk seperti palu.
+Dari kiri-kanan; saron panerus, saron barung, dan demung, dari STSI Surakarta
+Cara menabuhnya ada yang biasa sesuai nada, nada yang imbal, atau menabuh bergantian antara saron 1 dan saron 2. Cepat lambatnya dan keras lemahnya penabuhan tergantung pada komando dari kendang dan jenis gendhingnya. Pada gendhing Gangsaran yang menggambarkan kondisi peperangan misalnya, ricik ditabuh dengan keras dan cepat. Pada gendhing Gati yang bernuansa militer, ricik ditabuh lambat namun keras. Ketika mengiringi lagu ditabuh pelan.
+Dalam memainkan saron, tangan kanan memukul wilahan / lembaran logam dengan tabuh, lalu tangan kiri memencet wilahan yang dipukul sebelumnya untuk menghilangkan dengungan yang tersisa dari pemukulan nada sebelumnya. Teknik ini disebut memathet (kata dasar: pathet = pencet)</item>
+        <item>Karinding merupakan salah satu alat musik tradisional Indonesia yang cara memainkannya disentil oleh ujung telunjuk sambil ditempel di bibir. Alat musik ini termasuk dalam jenis lamelafon atau idiofon. Biasanya dibuat dari bahan pelepah aren atau dari bambu. Dalam penyebutannya Karinding (sunda) Rinding (Jawa) juga masih sajenis dengan génggong (Bali), serta kuriding dari (Kalimantan Selatan).</item>
+        <item>Kolintang atau kulintang adalah alat musik yang terdiri dari barisan gong kecil yang diletakkan mendatar. Alat musik ini dimainkan dengan diiringi oleh gong tergantung yang lebih besar dan drum. Kolintang merupakan bagian dari budaya gong Asia Tenggara, yang telah dimainkan selama berabad-abad di Kepulauan Melayu Timur - Filipina, Indonesia Timur, Malaysia Timur, Brunei, dan Timor.[6] Alat musik ini berkembang dari tradisi pemberian isyarat sederhana menjadi bentuk seperti sekarang.[5] Kegunaannya bergantung pada peradaban yang menggunakannya. Dengan pengaruh dari Hindu, Buddha, Islam, Kristen, dan Barat, Kulintang merupakan tradisi gong yang terus berkembang.
+Di Indonesia, Kolintang dikenal sebagai alat musik perkusi bernada dari kayu yang berasal dari daerah Minahasa Sulawesi Utara. Kayu yang dipakai untuk membuat Kolintang adalah kayu lokal yang ringan namun kuat seperti kayu Telur (Alstonia sp),kayu Wenuang (Octomeles Sumatrana Miq),kayu Cempaka (Elmerrillia Tsiampaca),kayu Waru (Hibiscus Tiliaceus), dan sejenisnya yang mempunyai konstruksi serat paralel. Nama kolintang berasal dari suaranya: tong (nada rendah), ting (nada tinggi) dan tang (nada biasa). Dalam bahasa daerah, ajakan "Mari kita lakukan TONG TING TANG" adalah: " Mangemo kumolintang". Ajakan tersebut akhirnya berubah menjadi kata kolintang.</item>
+        <item>Rebab, juga rebap, rabab, rebeb, rababah, atau al-rababa) adalah jenis alat musik senar yang dinamakan demikian paling lambat dari abad ke-8 dan menyebar melalui jalur-jalur perdagangan Islam yang lebih banyak dari Afrika Utara, Timur Tengah, bagian dari Eropa, dan Timur Jauh. Beberapa varietas sering memiliki tangkai di bagian bawah agar rebab dapat bertumpu di tanah, dan dengan demikian disebut rebab tangkai di daerah tertentu, tetapi terdapat versi yang dipetik seperti kabuli rebab (kadang-kadang disebut sebagai robab atau rubab).
+Ukuran rebab biasanya kecil, badannya bulat, bagian depan yang tercakup dalam suatu membran seperti perkamen atau kulit domba dan memiliki leher panjang terpasang. Ada leher tipis panjang dengan pegbox pada akhir dan ada satu, dua atau tiga senar. Tidak ada papan nada. Alat musik ini dibuat tegak, baik bertumpu di pangkuan atau di lantai. Busurnya biasanya lebih melengkung daripada biola.
+Rebab, meskipun dihargai karena nada suara, tetapi memiliki rentang yang sangat terbatas (sedikit lebih dari satu oktaf), dan secara bertahap diganti di banyak dunia Arab oleh biola dan kemenche. Hal ini terkait dengan instrumen Irak, Joza, yang memiliki empat senar.
+Pengenalan rebab ke Eropa Barat telah mungkin bersamaan dengan penaklukan Spanyol oleh bangsa Moor, di Semenanjung Iberia. Namun, ada bukti adanya alat musik ini pada abad ke-9 juga di Eropa Timur: ahli geografi Persia abad ke-9 Ibnu Khurradadhbih mengutip lira Bizantium (atau lūrā) sebagai alat musik busur khas Bizantium dan setara dengan rabāb Arab.</item>
+        <item>Rebana (bahasa Jawa: terbang) adalah gendang berbentuk bundar dan pipih yang merupakan khas suku melayu. Bingkai berbentuk lingkaran terbuat dari kayu yang dibubut, dengan salah satu sisi untuk ditepuk berlapis kulit kambing. Kesenian di Malaysia, Brunei, Indonesia dan Singapura sering memakai rebana bersama gambus digunakan untuk mengiringi tarian zapin. Rebana juga digunakan untuk melantunkan kasidah dan hadroh. Di bumiayu, rebana juga dijadikan sebagai lambang kota tersebut.</item>
+        <item>Saluang adalah alat musik tradisional khas Minangkabau, Sumatra Barat. Yang mana alat musik tiup ini terbuat dari bambu tipis atau talang (Schizostachyum brachycladum Kurz). Orang Minangkabau percaya bahwa bahan yang paling bagus untuk dibuat saluang berasal dari talang untuk jemuran kain atau talang yang ditemukan hanyut di sungai[1]. Alat ini termasuk dari golongan alat musik suling, tetapi lebih sederhana pembuatannya, cukup dengan melubangi talang dengan empat lubang. Panjang saluang kira-kira 40-60 cm, dengan diameter 3-4 cm. Adapun kegunaan lain dari talang adalah wadah untuk membuat lamang (lemang), salah satu makanan tradisional Minangkabau. Dalam mebuat saluang ini kita harus menentukan bagian atas dan bawahnya terlebih dahulu untuk menentukan pembuatan lubang, kalau saluang terbuat dari bambu, bagian atas saluang merupakan bagian bawah ruas bambu. Pada bagian atas saluang diserut untuk dibuat meruncing sekitar 45 derajat sesuai ketebalan bambu. Untuk membuat 4 lubang pada alat musik tradisional saluang ini mulai dari ukuran 2/3 dari panjang bambu, yang diukur dari bagian atas, dan untuk lubang kedua dan seterusnya berjarak setengah lingkaran bambu. Untuk besar lubang agar menghasilkan suara yang bagus, haruslah bulat dengan garis tengah 0,5 cm.</item>
+        <item>Talempong adalah sebuah alat musik pukul tradisional khas suku Minangkabau. Bentuknya hampir sama dengan instrumen bonang dalam perangkat gamelan. Talempong dapat terbuat dari kuningan, tetapi ada pula yang terbuat dari kayu dan batu. Saat ini talempong dari jenis kuningan lebih banyak digunakan.
+Talempong berbentuk lingkaran dengan diameter 15 sampai 17,5 sentimeter, pada bagian bawahnya berlubang sedangkan pada bagian atasnya terdapat bundaran yang menonjol berdiameter lima sentimeter sebagai tempat untuk dipukul. Talempong memiliki nada yang berbeda-beda. Bunyinya dihasilkan dari sepasang kayu yang dipukulkan pada permukaannya.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/calung</item>
+        <item>@drawable/angklung</item>
+        <item>@drawable/kendang</item>
+        <item>@drawable/saron</item>
+        <item>@drawable/karinding</item>
+        <item>@drawable/kolintang</item>
+        <item>@drawable/rebab</item>
+        <item>@drawable/rebana</item>
+        <item>@drawable/saluang</item>
+        <item>@drawable/talempong</item>
+    </string-array>
+</resources>
